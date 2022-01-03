@@ -1,8 +1,8 @@
 # Task1-The-Sparks-Foundation
 
-Internship category- Data Science and Business Analytics
+Internship category-- **Data Science and Business Analytics (DSBA)**
 
-Task#1--Prediction using Supervised Machine Learning
+**Task#1-- Prediction using Supervised Machine Learning**
 
 ```
  1.Predict the percentage score of a student based on the number of study hours.
