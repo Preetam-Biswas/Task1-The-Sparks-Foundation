@@ -7,7 +7,7 @@ Internship category-- **Data Science and Business Analytics (DSBA)**
 ```
  1.Predict the percentage score of a student based on the number of study hours.
 
- 2.This is a simpe linear regression task as it involves just two variables.
+ 2.This is a Simple Linear Regression task as it involves just two variables- Hours and Scores.
 
  3.Python is used as the analysis tool.
 
