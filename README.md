@@ -1,6 +1,6 @@
 # Task1-The-Sparks-Foundation
 
-Internship category-Data Science and Business Analytics
+Internship category- Data Science and Business Analytics
 
 Task#1--Prediction using Supervised Machine Learning
 
